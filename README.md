@@ -28,6 +28,7 @@ Libraries used :
 
 Testing framework used: Calabash
 
-Intro
-I have Covered the component like v7 supports, handled and used swiperefreshment, used appcompactbutton, butterknife, Imageview , appcompact activity, relative layout, rxjava, dagger2 injection, retrofit as api calling.
+Introduction
+
+This project has covered the component like v7 supports, handled and used swiperefreshment, used appcompactbutton, butterknife, Imageview , appcompact activity, relative layout, rxjava, dagger2 injection, retrofit as api calling.
 
