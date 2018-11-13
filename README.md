@@ -1,6 +1,7 @@
 # New_MVP_Sample
 
 Architectural pattern : MVP ( Model — View — Presenter)
+
 Design pattern :  observer design pattern
 Libraries used – 
 1) appcompact
