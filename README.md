@@ -24,7 +24,7 @@ Libraries used :
 
 9) gson
 
-10)okhhtp3
+10) okhhtp3
 
 Testing framework used: Calabash
 
