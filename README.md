@@ -1,10 +1,21 @@
 # New_MVP_Sample
-Following MVP pattern
 
-1) Recomended To use Android studio 3.3 canary 10.(Mandatory to overcome gradle issues or overcome rendering errors)
+Architectural pattern : MVP ( Model — View — Presenter)
+Design pattern :  observer design pattern
+Libraries used – 
+1) appcompact
+2) Recyclerview
+3) rxjava
+4) dagger2
+5) retrofit
+6) cardview
+7) butterknife
+8) picasso
+9) gson
+10)okhhtp3
 
-3) Go to Build Option select -> Make App module to make compartable the project to dagger and rxjava.
+Testing framework used: Calabash
 
-4) Now the project is ready to build.
+Intro
+I have Covered the component like v7 supports, handled and used swiperefreshment, used appcompactbutton, butterknife, Imageview , appcompact activity, relative layout, rxjava, dagger2 injection, retrofit as api calling.
 
-5) apk is present in app folder -> build->output->apk folder
