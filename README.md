@@ -3,7 +3,9 @@
 Architectural pattern : MVP ( Model — View — Presenter)
 
 Design pattern :  observer design pattern
-Libraries used – 
+
+Libraries used :
+
 1) appcompact
 2) Recyclerview
 3) rxjava
