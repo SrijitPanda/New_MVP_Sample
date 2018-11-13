@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wipro Test</string>
+    <string name="error">Failed to load please try again</string>
+</resources>
