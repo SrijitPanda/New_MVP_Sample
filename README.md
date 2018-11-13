@@ -32,3 +32,8 @@ Introduction
 
 This project has covered the component like v7 supports, handled and used swiperefreshment, used appcompactbutton, butterknife, Imageview , appcompact activity, relative layout, rxjava, dagger2 injection, retrofit as api calling.
 
+Unit Test Cases:
+
+1) screen changed to landscape , UI still in potrait = Ui is Fine.
+2) Running Fine in Oreo, Kitkat, nugout, masmallow.
+
